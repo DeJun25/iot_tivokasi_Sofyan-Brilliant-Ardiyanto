@@ -44,3 +44,5 @@ void loop() {
     
     delay(2000); 
 }
+
+//minggu 1
